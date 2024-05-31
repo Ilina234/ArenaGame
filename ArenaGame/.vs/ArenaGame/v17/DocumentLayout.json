@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\weaponslibrary\\magicwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|solutionrelative:weaponslibrary\\magicwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\weaponslibrary\\twoswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|solutionrelative:weaponslibrary\\twoswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\weaponslibrary\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|solutionrelative:weaponslibrary\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6E40E3-19A5-4511-BABA-4DFBFC23E6F9}|WeaponsLibrary\\Weapons.csproj|solutionrelative:weaponslibrary\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\gladiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\gladiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\ivayl\\desktop\\arena\\arenagame\\arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\Sword.cs",
+              "RelativeDocumentMoniker": "WeaponsLibrary\\Sword.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\Sword.cs",
+              "RelativeToolTip": "WeaponsLibrary\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:09:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoSwords.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\TwoSwords.cs",
+              "RelativeDocumentMoniker": "WeaponsLibrary\\TwoSwords.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\TwoSwords.cs",
+              "RelativeToolTip": "WeaponsLibrary\\TwoSwords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:10:13.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MagicWand.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\MagicWand.cs",
+              "RelativeDocumentMoniker": "WeaponsLibrary\\MagicWand.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\MagicWand.cs",
+              "RelativeToolTip": "WeaponsLibrary\\MagicWand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:09:33.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gladiator.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Gladiator.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Gladiator.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Gladiator.cs",
+              "RelativeToolTip": "ArenaGame\\Gladiator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:02:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Witch.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Witch.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Witch.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Witch.cs",
+              "RelativeToolTip": "ArenaGame\\Witch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:55:33.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:07:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponsLibrary\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\WeaponsLibrary\\Weapon.cs",
+              "RelativeToolTip": "WeaponsLibrary\\Weapon.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:24:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Rogue.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeToolTip": "ArenaGame\\Rogue.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:59.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Knight.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Knight.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:14:17.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Arena.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Arena\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeToolTip": "ArenaGame\\Arena.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:43:59.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
